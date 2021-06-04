@@ -1,0 +1,9 @@
+{
+  "name": "Easyerrands",
+  "version": "2.0.0",
+  "description": "a logistics delivey company, currently based in lagos",
+  "repository": {
+      "type": "git",
+      "url": "https://https://github.com/imohenry/Easyerrands2.0"
+    }
+}
